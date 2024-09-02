@@ -41,6 +41,7 @@ android {
             path "libserialport/CMakeLists.txt"
         }
     }
+    namespace 'org.sigrok.flutter_libserialport'
 }
 
 dependencies {
